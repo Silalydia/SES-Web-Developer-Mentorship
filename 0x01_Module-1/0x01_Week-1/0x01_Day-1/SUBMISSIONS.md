@@ -90,6 +90,6 @@ Thank you for sharing your work with the community! This is a great opportunity 
 - **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/daniel-ayioka-a4318b263/)
 
 ### lydia sila
-  - **Github Repository:** [github repo](https://github.com/Silalydia/SES-Web-Developer-Mentorship.git)
+  - **Github Repository:** [GitHub repo](https://github.com/Silalydia/SES-Web-Developer-Mentorship.git)
   -  **Blog post:**[blog post](https://github.com/Silalydia/SES-Web-Developer-Mentorship.gitMY BLOG)
   
